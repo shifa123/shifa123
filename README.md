@@ -1,38 +1,38 @@
 ### Hi there 👋
 
-Things that I love:
-📕 Teaching
-🖥️ Hacking
-📒 Learning stuff
-🌎 Publishing open source
+<br />Things that I love:<br />
+📕 Teaching <br />
+🖥️ Hacking <br />
+📒 Learning stuff <br />
+🌎 Publishing open source <br />
 
-Where I've Been 🛣
-⚔️ Banks/Government Organisations (Intel, Cyber Security Consultant)
-🌐 Hacktify Cyber Security (Principal Security Consultant)
-🏫 Gujarat University | (ECE Engineering)
-🎓 CDAC Pune | (Post Graduate Diploma IT Infra & System Security)
-🎓 IGNOU | (Post Graduate Diploma Information Security)
+Where I've Been 🛣 <br />
+⚔️ Banks/Government Organisations (Intel, Cyber Security Consultant) <br />
+🌐 Hacktify Cyber Security (Principal Security Consultant) <br />
+🏫 Gujarat University | (ECE Engineering) <br />
+🎓 CDAC Pune | (Post Graduate Diploma IT Infra & System Security) <br />
+🎓 IGNOU | (Post Graduate Diploma Information Security) <br />
 
-Where I'm Going 🧭
-Building Constructive Cyber Security Workforce.
-Affordable Cyber Security Education for everyone.
-Contributions to Open Source, community building, good vibes 🎉
+Where I'm Going 🧭<br />
+Building Constructive Cyber Security Workforce. <br />
+Affordable Cyber Security Education for everyone.<br />
+Contributions to Open Source, community building, good vibes 🎉<br />
 
-My Projects 🚧
-Private Vulnereabilty / Detection Nuclei Templates
-One Liners
-Custom Bash Script Implementations
-Subdomain Enumeration Tools - Passive / Active
+My Projects 🚧<br />
+Private Vulnereabilty / Detection Nuclei Templates<br />
+One Liners<br />
+Custom Bash Script Implementations<br />
+Subdomain Enumeration Tools - Passive / Active<br />
 
-💬 Ask me about ...
-Pentesting 
-Bug Bounties 
-Network Security 
-Practical OSINT
+💬 Ask me about ...<br />
+Pentesting <br />
+Bug Bounties <br />
+Network Security <br />
+Practical OSINT<br />
 
-CVEs 🐛
-CVE-2021-36580
+CVEs 🐛 <br />
+CVE-2021-36580 <br />
 
-Connect with me: 🤝
-https://twitter.com/hackergautam
-https://linkedin.com/in/iamrohitg
+Connect with me: 🤝<br />
+https://twitter.com/hackergautam<br />
+https://linkedin.com/in/iamrohitg<br />
