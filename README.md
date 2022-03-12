@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <br />Things that I love:<br />
 📕 Teaching <br />
