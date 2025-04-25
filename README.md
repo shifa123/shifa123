@@ -6,12 +6,6 @@
 📒 Learning stuff <br />
 🌎 Publishing open source <br />
 
-Where I've Been 🛣 <br />
-⚔️ Banks/Government Organisations (Intel, Cyber Security Consultant) <br />
-🌐 Hacktify Cyber Security (Principal Security Consultant) <br />
-🏫 Gujarat University | (ECE Engineering) <br />
-🎓 CDAC Pune | (Post Graduate Diploma IT Infra & System Security) <br />
-🎓 IGNOU | (Post Graduate Diploma Information Security) <br />
 
 Where I'm Going 🧭<br />
 Building Constructive Cyber Security Workforce. <br />
@@ -29,9 +23,6 @@ Pentesting <br />
 Bug Bounties <br />
 Network Security <br />
 Practical OSINT<br />
-
-CVEs 🐛 <br />
-CVE-2021-36580 <br />
 
 Connect with me: 🤝<br />
 https://twitter.com/hackergautam<br />
